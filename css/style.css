@@ -1,0 +1,12 @@
+.bg-image {
+    background-image: url('../img/imageforbiology.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-body {
+    background-color: rgb(4, 27, 42);
+}
+
+
