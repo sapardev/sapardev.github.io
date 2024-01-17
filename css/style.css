@@ -1,0 +1,14 @@
+.bg-image-1 {
+    background-image: url('../img/2019-12-05.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-body {
+    background-color: midnightblue;
+}
+.text-gokrenk {
+    text-decoration: midnightblue;
+}
+
